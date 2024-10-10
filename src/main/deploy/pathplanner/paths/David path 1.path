@@ -1,0 +1,52 @@
+{
+  "version": 1.0,
+  "waypoints": [
+    {
+      "anchor": {
+        "x": 2.831597663195327,
+        "y": 3.06382669908197
+      },
+      "prevControl": null,
+      "nextControl": {
+        "x": 2.802278747414638,
+        "y": 3.782140135708843
+      },
+      "isLocked": false,
+      "linkedName": "David Waypoint 3"
+    },
+    {
+      "anchor": {
+        "x": 4.546754236365616,
+        "y": 7.168474908378388
+      },
+      "prevControl": {
+        "x": 3.546754236365616,
+        "y": 7.168474908378388
+      },
+      "nextControl": null,
+      "isLocked": false,
+      "linkedName": "David Waypoint"
+    }
+  ],
+  "rotationTargets": [],
+  "constraintZones": [],
+  "eventMarkers": [],
+  "globalConstraints": {
+    "maxVelocity": 1.5,
+    "maxAcceleration": 3.0,
+    "maxAngularVelocity": 540.0,
+    "maxAngularAcceleration": 720.0
+  },
+  "goalEndState": {
+    "velocity": 0,
+    "rotation": 0,
+    "rotateFast": false
+  },
+  "reversed": false,
+  "folder": null,
+  "previewStartingState": {
+    "rotation": 0,
+    "velocity": 0
+  },
+  "useDefaultConstraints": true
+}
