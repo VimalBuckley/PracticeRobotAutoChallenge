@@ -8,13 +8,13 @@
         {
           "type": "path",
           "data": {
-            "pathName": "Path 1"
+            "pathName": "this is not a warning. this is a fact. someday i will consume your brain."
           }
         },
         {
           "type": "path",
           "data": {
-            "pathName": "Path 2"
+            "pathName": "g [ath TWO"
           }
         }
       ]
