@@ -1,0 +1,25 @@
+{
+  "version": "2025.0",
+  "command": {
+    "type": "sequential",
+    "data": {
+      "commands": [
+        {
+          "type": "path",
+          "data": {
+            "pathName": "this is not a warning. this is a fact. someday i will consume your brain."
+          }
+        },
+        {
+          "type": "path",
+          "data": {
+            "pathName": "g [ath TWO"
+          }
+        }
+      ]
+    }
+  },
+  "resetOdom": true,
+  "folder": null,
+  "choreoAuto": false
+}
